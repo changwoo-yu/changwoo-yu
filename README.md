@@ -19,3 +19,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changwoo-yu)](https://github.com/anuraghazra/github-readme-stats)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=changwoo&fontSize=50)
+
+
+# 이름
+## 소개
+
+[![Discord](https://img.shields.io/badge/Discord-창우유%231234-7289DA?style=flat-square&logo=discord)](https://discord.gg/your-discord-server-invite-link)
+
