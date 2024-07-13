@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=changwoo-yu&fontSize=100)
 ## Hello 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangwooyu1213%40gmail.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 I am preparing to become a front-end developer.
+
+<br>
+<br>
 
 🛠️ Stacks 
 
@@ -17,34 +19,23 @@ I am preparing to become a front-end developer.
 
 <br>
 <br>
+<br>
 
 😎 About Me
 
-<img src="https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white" alt="Gmail Badge" height="20"/> [![Discord](https://img.shields.io/badge/Discord-창우유%2327188-7289DA?style=plastic&logo=discord)](https://discord.gg/your-discord-server-invite-link) [![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)](https://www.notion.so/[https://www.notion.so/bdb4c9a224344462aef3a99df676513c]) <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white" alt="Gmail Badge" height="20"/> <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100008436759642"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge"></a> [![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)](https://www.notion.so/[https://www.notion.so/bdb4c9a224344462aef3a99df676513c]) <a href="https://www.instagram.com/yu__ckd/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/yu__ckd/" 
+       alt="Instagram" 
+       style="background: linear-gradient(#e66465, #9198e5);">
+</a>
 
 
 
+<br>
 
-<span>
-  <a href="https://www.instagram.com/">
-    
-  </a>
-</span>
-
-
+✨ Dev logs
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changwoo-yu&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=changwoo-yu&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=changwoo-yu&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjqnr68)](https://solved.ac/rjqnr68/)
-
-
 
