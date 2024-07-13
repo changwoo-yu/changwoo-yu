@@ -23,13 +23,15 @@ I am preparing to become a front-end developer.
 
 😎 About Me
 
-<img src="https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white" alt="Gmail Badge" height="20"/> <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100008436759642"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge"></a> [![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)](https://www.notion.so/[https://www.notion.so/bdb4c9a224344462aef3a99df676513c]) <a href="https://www.instagram.com/yu__ckd/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/yu__ckd/" 
-       alt="Instagram" 
-       style="background: linear-gradient(#e66465, #9198e5);">
-</a>
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" height="20"/> <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100008436759642"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge"></a> [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/[https://www.notion.so/bdb4c9a224344462aef3a99df676513c])
 
+[![Badge](https://0abkzzthyumd.runkit.sh)](https://www.instargram.com)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/)
+Instagram
 
+<a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
 
 <br>
 
