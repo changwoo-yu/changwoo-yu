@@ -23,7 +23,7 @@ I am preparing to become a front-end developer.
 
 😎 About Me
 
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" height="20"/> <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100008436759642"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge"></a> [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/[https://www.notion.so/bdb4c9a224344462aef3a99df676513c]) <a href="https://www.instagram.com/yu__ckd//"><img src="https://i.ibb.co/Cw3SnT0/Group-11.png" alt="Group-11" border="0"></a>
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" height="20"/> <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100008436759642"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge"></a> [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/[https://www.notion.so/bdb4c9a224344462aef3a99df676513c]) <a href="https://www.instagram.com/yu__ckd/"><img src="https://i.ibb.co/Cw3SnT0/Group-11.png" alt="Group-11" border="0"></a>
 <br>
 
 ✨ Dev logs
