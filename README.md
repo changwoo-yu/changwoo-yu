@@ -23,16 +23,7 @@ I am preparing to become a front-end developer.
 
 😎 About Me
 
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" height="20"/> <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100008436759642"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge"></a> [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/[https://www.notion.so/bdb4c9a224344462aef3a99df676513c])
-
-[![Badge](https://0abkzzthyumd.runkit.sh)](https://www.instargram.com)
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/)
-Instagram
-
-<a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
-
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" height="20"/> <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100008436759642"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge"></a> [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/[https://www.notion.so/bdb4c9a224344462aef3a99df676513c]) <a href="https://www.instagram.com/yu__ckd//"><img src="https://i.ibb.co/Cw3SnT0/Group-11.png" alt="Group-11" border="0"></a>
 <br>
 
 ✨ Dev logs
@@ -40,4 +31,3 @@ Instagram
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changwoo-yu&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
-
