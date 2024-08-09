@@ -8,7 +8,6 @@
 
 
 <br>
-<br>
 
 ### 🛠️ Stacks 
 
@@ -16,27 +15,21 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | React.js | Next.js | TypeScript | JavaScript | HTML5 | CSS3 | GitHub | Git |
 
-
-<br>
-<br>
 <br>
 
 ### 😎 About Me
 
+| [![email](https://cdn-icons-png.flaticon.com/512/5968/5968534.png)](changwooyu1213@gmail.com) |<img src="https://cdn-icons-png.freepik.com/256/1384/1384063.png?ga=GA1.2.1015079129.1720872111&semt=ais_hybrid" width="50" height="50" /> | <img src="https://cdn-icons-png.freepik.com/256/5968/5968764.png?ga=GA1.1.1015079129.1720872111&semt=ais_hybrid" width="50" height="50"/> | <img src="https://cdn.digitaltoday.co.kr/news/photo/202008/244369_212315_639.jpg" width="50" height="50"/> |
+| :---: | :---: | :---: | :---: |
+| Gmail | Instagram | Facebook | Notion |
+
+
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" height="20"/> <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100008436759642"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge"></a> [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/[https://www.notion.so/bdb4c9a224344462aef3a99df676513c]) <a href="https://www.instagram.com/yu__ckd/"><img src="https://i.ibb.co/Yp2CZjW/instarr.png" alt="instagram" border="0"></a><br />
 <br>
 
-✨ Dev logs
+### ✨ Dev logs
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changwoo-yu&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
-
-------------
-
-
-
-
-
-<img src="https://cdn-icons-png.freepik.com/256/1384/1384063.png?ga=GA1.2.1015079129.1720872111&semt=ais_hybrid" width="65" height="65" />
 
