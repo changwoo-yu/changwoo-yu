@@ -1,5 +1,19 @@
-## Hello 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangwooyu1213%40gmail.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-I am preparing to become a front-end developer.
+<h1 align="center">Hello 👋</h1>
+<h3 align="center">I am preparing to become a front-end developer.</h3>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangwooyu1213%40gmail.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=ProfileViews&edge_flat=false" alt="Profile Views" />
+  </a>
+</p>
+
+
+
+<div style="text-align: center;">
+## Hello 👋 
+### I am preparing to become a front-end developer.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchangwooyu1213%40gmail.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=ProfileViews&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
 
 <br>
 <br>
