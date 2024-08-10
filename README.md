@@ -23,22 +23,22 @@
     <tr>
         <td>
             <a href="mailto:changwooyu1213@gmail.com">
-                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="65" height="65" alt="email" />
+                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50" height="50" alt="email" />
             </a>
         </td>
         <td>
             <a href="https://www.instagram.com/yu__ckd/">
-                <img src="https://cdn-icons-png.freepik.com/256/1384/1384063.png?ga=GA1.2.1015079129.1720872111&semt=ais_hybrid" width="65" height="65" alt="instagram" />
+                <img src="https://cdn-icons-png.freepik.com/256/1384/1384063.png?ga=GA1.2.1015079129.1720872111&semt=ais_hybrid" width="50" height="50" alt="instagram" />
             </a>
         </td>
         <td>
             <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100008436759642">
-                <img src="https://cdn-icons-png.freepik.com/256/5968/5968764.png?ga=GA1.1.1015079129.1720872111&semt=ais_hybrid" width="65" height="65" alt="facebook" />
+                <img src="https://cdn-icons-png.freepik.com/256/5968/5968764.png?ga=GA1.1.1015079129.1720872111&semt=ais_hybrid" width="50" height="50" alt="facebook" />
             </a>
         </td>
         <td>
             <a href="https://www.notion.so/c4a28626a06d451bb49e14886c88fa22">
-                <img src="https://cdn.digitaltoday.co.kr/news/photo/202008/244369_212315_639.jpg" width="65" height="65" alt="notion" />
+                <img src="https://cdn.digitaltoday.co.kr/news/photo/202008/244369_212315_639.jpg" width="50" height="50" alt="notion" />
             </a>
         </td>
     </tr>
